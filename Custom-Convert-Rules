@@ -9,7 +9,6 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
 ruleset=📲 电报消息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 ruleset=🐦 推特媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
-ruleset=🐦 推特可用,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
 ruleset=📹 油管视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 ruleset=🧬 EHentai,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/EHGallery.list
 ruleset=🧬 KemonoParty,https://raw.githubusercontent.com/Sherman-Liu/Self-Use-Rule-List/main/kemonoparty.list
@@ -42,7 +41,6 @@ custom_proxy_group=🇸🇬 狮城节点`select`(新加坡|坡|狮城|SG|Singapo
 custom_proxy_group=🇨🇳 台湾节点`select`(台|新北|彰化|TW|Taiwan)
 custom_proxy_group=🇰🇷 韩国节点`select`(KR|Korea|KOR|首尔|韩|韓)
 custom_proxy_group=🇷🇺 俄罗斯节点`select`(RU|Russia|伯力|莫斯科|圣彼得堡|西伯利亚|新西伯利亚|哈巴罗夫斯克|俄罗斯|[^-]俄)
-custom_proxy_group=🐦 推特可用"select"^(?!.*(AWS|AZURE|NTT)).*"igm
 
 enable_rule_generator=true
 overwrite_original_rules=true
