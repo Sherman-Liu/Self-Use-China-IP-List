@@ -1,6 +1,4 @@
 payload:
-  - '+.1drv.com'
-  - '+.microsoft.com'
   - '+.aadrm.com'
   - '+.acompli.com'
   - '+.acompli.net'
