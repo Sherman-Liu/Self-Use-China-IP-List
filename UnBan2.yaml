@@ -1,2 +1,2 @@
 payload:
-- DOMAIN-SUFFIX,analysis.windows.net
+  - DOMAIN-SUFFIX,analysis.windows.net
