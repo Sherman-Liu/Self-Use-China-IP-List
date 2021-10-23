@@ -5,6 +5,8 @@ payload:
   - '+.googletraveladservices.com'
   - '+.tracking-protection.cdn.mozilla.net'
   - 'origin-a.akamaihd.net'
+  - 'xivanalysis.com'
+  - 'picanalysis.vivo.com.cn'
   - 'fairplay.l.qq.com'
   - 'livew.l.qq.com'
   - 'vd.l.qq.com'
