@@ -6,5 +6,3 @@ payload:
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,WebTorrent.exe
   - PROCESS-NAME,WebTorrent Helper.exe
-  - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
