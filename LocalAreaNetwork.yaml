@@ -1,5 +1,7 @@
 payload:
   - 'router.asus.com'
+  - 'instant.arubanetworks.com'
+  - 'setmeup.arubanetworks.com'
   - '+.lan'
   - '+.localdomain'
   - '+.example'
@@ -25,3 +27,4 @@ payload:
   - '+.routerlogin.com'
   - '+.tendawifi.com'
   - '+.zte.home'
+  - '+.router.ctc'
