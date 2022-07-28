@@ -16,5 +16,6 @@ payload:
   - 'tracking.miui.com'
   - 'app.adjust.com'
   - 'bdtj.tagtic.cn'
-  - 'picanalysis.vivo.com.cn'
   - '+.analysis.windows.net'
+  - 'picanalysis-auth.vivo.com.cn'
+  - 'errlog.umeng.com'
